@@ -1,10 +1,10 @@
----
+tap---
 #https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
 title: n8n Glossary
 description: A glossary of terms commonly used when working with n8n and related software.
 contentType: reference
 ---
-
+comtrol+shift
 #### AI agent
 
 AI agents are artificial intelligence systems capable of responding to requests, making decisions, and performing real-world tasks for users. They use large language models (LLMs) to interpret user input and make decisions about how to best process requests using the information and resources they have available.
